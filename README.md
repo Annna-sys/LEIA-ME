@@ -1,17 +1,17 @@
-# Olá, eu sou o Gabriel de Assis! 😁
+# Olá, eu sou a Anna Clara Santos! 😁
 
 <br/>
 
-- 🔭 Estudando Ciência da Computação no CEUB, com maior inclinação para a área de CyberSec.
-- 🌱 Atualmente focado em aprender e aprimorar minhas habilidades em Python.
+- 🔭 Estudando Analisé e desenvolvimento de sistemas no UniRios, com maior inclinação para a área de programação Front-end.
+- 🌱 Atualmente focado em aprender e aprimorar minhas habilidades em Java.
 - 🚀 Sempre procurando me desafiar a ir mais além!
 
 #
 
 <br/>
 
-- 🔭 Studying Computer Science at CEUB, with a focus on CyberSec.
-- 🌱 Currently learning and improving my skills in Python.
+- 🔭 Studying Computer Science at CEUB, with a focus on programação Front-end.
+- 🌱 Currently learning and improving my skills in Java.
 - 🚀 Always looking to challenge myself to go further!
 
 <br/>
