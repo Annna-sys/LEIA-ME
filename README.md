@@ -2,16 +2,16 @@
 
 <br/>
 
-- 🔭 Estudando Análise e Desenvolvimento de Sistemas de Informação na UniRios, com maior inclinação para a área de programação Front-end.
-- 🌱 Atualmente focado em aprender e aprimorar minhas habilidades em Java.
+- 🔭 Estudando Análise e Desenvolvimento de Sistemas de Informação no Ceub, com maior inclinação para a área de programação Full-stack.
+- 🌱 Atualmente focado em aprender e aprimorar minhas habilidades em Java e python.
 - 🚀 Sempre procurando me desafiar a ir mais além!
 
 #
 
 <br/>
 
-- 🔭 Studying Information Systems Analysis and Development at UniRios, with a focus on programação Front-end.
-- 🌱 Currently learning and improving my skills in Java.
+- 🔭 Studying Information Systems Analysis and Development at Ceub, with a focus on programação Full-stack.
+- 🌱 Currently learning and improving my skills in Java and python.
 - 🚀 Always looking to challenge myself to go further!
 
 <br/>
